@@ -2,8 +2,9 @@
 
 This is a discord bot designed to manage your playlists.
 
-Functions:
+Functions:\
 ~addRecent
-\t Adds songs from you Liked Songs that was liked within the last month
+* Adds songs from you Liked Songs that was liked within the last month
 
-Limitations: Currently hard coded to modify a specific playlist
+Limitations:
+- Currently hard coded to modify a specific playlist
